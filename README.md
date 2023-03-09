@@ -3,8 +3,9 @@
 # Serpent
 This project's goal is to implement Serpent cipher in Python.
 
-## Authors
-Miłosz Kutyła && Jakub Ossowski
+## Collaborators
+Miłosz Kutyła ([GitHub](https://github.com/mkutyla))
+Jakub Ossowski ([GitHub](https://github.com/bilevcik))
 
 ## Serpent
 - [ ] [Offical website](https://www.cl.cam.ac.uk/~rja14/serpent.html)
