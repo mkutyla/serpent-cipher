@@ -4,7 +4,8 @@
 This project's goal is to implement Serpent cipher in Python.
 
 ## Collaborators
-Miłosz Kutyła ([GitHub](https://github.com/mkutyla)) and
+Miłosz Kutyła ([GitHub](https://github.com/mkutyla))
+
 Jakub Ossowski ([GitHub](https://github.com/bilevcik))
 
 ## Serpent
