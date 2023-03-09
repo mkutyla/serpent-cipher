@@ -1,8 +1,8 @@
-# Status
-Finished and closed
-
 # Serpent
 This project's goal is to implement Serpent cipher in Python.
+
+# Status
+Finished and closed
 
 ## Collaborators
 Miłosz Kutyła ([GitHub](https://github.com/mkutyla))
