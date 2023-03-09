@@ -1,4 +1,5 @@
-# Status : finished and closed
+# Status
+Finished and closed
 
 # Serpent
 This project's goal is to implement Serpent cipher in Python.
