@@ -1,6 +1,7 @@
-# BDAN_Serpent: finished and closed
-This project's goal is to implement Serpent cipher in Python.
+# Status : finished and closed
 
+# Serpent
+This project's goal is to implement Serpent cipher in Python.
 
 ## Authors
 Miłosz Kutyła && Jakub Ossowski
